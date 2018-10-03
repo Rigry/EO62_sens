@@ -1,0 +1,3 @@
+build/**
+!build/EO62_sensosrs.hex
+!build/EO62_sensosrs.bin
