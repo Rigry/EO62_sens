@@ -52,7 +52,7 @@ int main (void)
 							//ДК: управляет RTS - define
 	InitTimer();			//для определения конца пакета
 	
-	board_addr=0x0A; //Адрес платы на шине RS485
+	board_addr=0x0B; //Адрес платы на шине RS485
 	 
 	temp=0;
 	uroven_uf=0;
